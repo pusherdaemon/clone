@@ -1,0 +1,26 @@
+[
+    {
+        "AUTH_TYPE": "MySQL",
+        "ALLOW_IP": "103.35.199.82",
+        "SQUID_USERNAME": "dcmpro",
+        "SQUID_PASSWORD": "fuckaycdjake",
+        "SQUID_PORT": 3111,
+        "INSTANCE_TYPE": "t3.nano",
+        "ROOT_PASSWORD": "NoP2893@ssord1",
+        "awsRegions":[ 
+            {
+                "region": "us-gov-west-1",
+                "location": "AWS GovCloud (US-Gov-West)",
+                "image_id": "ami-84556de5"
+            },
+            {
+                "region": "us-gov-east-1",
+                "location": "AWS GovCloud (US-Gov-East)",
+                "image_id": "ami-dee008af"
+            }
+        ] 
+        
+    }
+    
+]
+
